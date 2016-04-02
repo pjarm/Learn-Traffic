@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
         trafficlivListView = (ListView) findViewById(R.id.listView);
         aboutMeButton = (Button) findViewById(R.id.button);
 
-
         //การเก็บเหตุการณ์ จาการคลิ๊กปุ่ม
         aboutMeButton.setOnClickListener(new View.OnClickListener() {
             @Override
