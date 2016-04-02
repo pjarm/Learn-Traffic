@@ -36,4 +36,4 @@ public class MainActivity extends AppCompatActivity {
 
     }    //Main Metthod นี่คือเมดตอด
 
-}    //Main Class นี่คือคลาสหลัก
+}    //Main Class นี่คือคลาสหลัก..
