@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
                 //Web View
                 Intent intent = new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse("https://youtu.be/AGTnpr7vc1E");
+                intent.setData(Uri.parse("https://youtu.be/AGTnpr7vc1E"));
                 startActivity(intent);
 
             } //onClick
